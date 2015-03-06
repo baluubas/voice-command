@@ -2,7 +2,7 @@ var EventEmitter 	= require('events').EventEmitter,
 	util 			= require("util"),
 	spawn 			= require('child_process').spawn;
 
-var exe = '.bin/voice-command';
+var exe = __dirname + '/.bin/voice-command';
 
 function VoiceCommand(cmds) {
 	EventEmitter.call(this);
