@@ -1,6 +1,6 @@
 {
   "name": "voice-command",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node module for voice commands using native, offline speech recognizion.",
   "dependencies": {},
   "devDependencies": {},
