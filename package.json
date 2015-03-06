@@ -13,6 +13,6 @@
   "license": "MIT",
 
   "scripts": {
-    
+      "build": "node ./build/build-release.js"
   }
 }
