@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>96FD44F8-195B-437B-8AFB-27308503E8DF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>voice-command</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B574A0F3704A31701024D2E1DC44AAFFF1F0B188</key>
+		<string>https://github.com/baluubas/voice-command.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>src/osx/voice-command/voice-command.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B574A0F3704A31701024D2E1DC44AAFFF1F0B188</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/baluubas/voice-command.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B574A0F3704A31701024D2E1DC44AAFFF1F0B188</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B574A0F3704A31701024D2E1DC44AAFFF1F0B188</string>
+			<key>IDESourceControlWCCName</key>
+			<string>voice-command</string>
+		</dict>
+	</array>
+</dict>
+</plist>

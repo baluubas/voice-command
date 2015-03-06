@@ -6,6 +6,7 @@
 - (void)onCommand:(NSString *)command {
     printf("%s", [command UTF8String]);
     printf("\n");
+    fflush(stdout);
 }
 
 
